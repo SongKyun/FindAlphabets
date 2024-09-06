@@ -1,0 +1,6 @@
+UI_GameStart.uasset filter=lfs diff=lfs merge=lfs -text
+UI_Timer.uasset filter=lfs diff=lfs merge=lfs -text
+UI_Aim.uasset filter=lfs diff=lfs merge=lfs -text
+UI_Aimingpoint.uasset filter=lfs diff=lfs merge=lfs -text
+UI_Bullet.uasset filter=lfs diff=lfs merge=lfs -text
+*.umap filter=lfs diff=lfs merge=lfs -text
